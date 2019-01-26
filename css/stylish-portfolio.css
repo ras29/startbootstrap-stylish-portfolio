@@ -126,7 +126,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: #f9c936;
+  background: #ffec26;
   border-left: 1px solid rgba(255, 204, 0, 0.1);
 }
 
@@ -176,7 +176,7 @@ h6 {
   background: none;
 }
 
-#sidebar-wrapper.active {
+#sidebar-wrapper.active {color:orange
   right: 250px;
   width: 250px;
   -webkit-transition: all 0.4s ease 0s;
