@@ -176,7 +176,8 @@ h6 {
   background: none;
 }
 
-#sidebar-wrapper.active {color:orange
+#sidebar-wrapper.active {
+  color: orange;
   right: 250px;
   width: 250px;
   -webkit-transition: all 0.4s ease 0s;
